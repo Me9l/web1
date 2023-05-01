@@ -1,2 +1,4 @@
 github에 저장된 내용을 pull 받아와서
 내용을 수정한 후 add commit push 진행 연습
+
+깃에서 내용을 
